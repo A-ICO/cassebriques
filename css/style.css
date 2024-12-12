@@ -1,0 +1,24 @@
+/* /* @charset "UTF-8";
+
+/*
+* Nom du projet : Casse briques
+* Auteur : Angelo
+* Date : 27/11/2024
+*Description : Feuille de style pour Casse briques
+*/
+body { 
+    background-image: url(../img/bg.jpg); 
+    color: #F50EB6; 
+    } 
+    canvas { 
+    border: 1px solid black; 
+    background-color: #8d8787; 
+    } 
+    h1 { 
+    text-align: center; 
+    color: #F50EB6; 
+    } 
+    #contenu { 
+    width: 480px; 
+    margin: auto; 
+    } 
